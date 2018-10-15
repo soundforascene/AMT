@@ -1,4 +1,4 @@
-#‘Blog’
+Blog - 15th Oct 
 
 Between our first class and the class on the 15th of October
 
