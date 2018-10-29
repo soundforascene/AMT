@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+Essay Plan Link: https://github.com/soundforascene/AMT/blob/master/Essay%20Plan.pdf
+
 ‘Blog’
 =======
 Blog - 15th Oct 
