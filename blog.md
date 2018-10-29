@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 
 Essay Plan Link: https://github.com/soundforascene/AMT/blob/master/Essay%20Plan.pdf
 
-‘Blog’
-=======
+
 Blog - 15th Oct 
->>>>>>> 575f8842b602e2ee3345fe49bafe70ef30698454
 
 Between our first class and the class on the 15th of October
 
